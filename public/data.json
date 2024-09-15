@@ -1,0 +1,219 @@
+
+[
+    {
+      "id": "recZkNf2kwmdBcqd0",
+      "name": "iphone 13",
+      "price": 59999,
+      "image": "https://mediasb2b.services.mtel.ba/medias/iphone-13-128gb-midnight.png?context=bWFzdGVyfHJvb3R8MTI1NTE0fGltYWdlL3BuZ3xhR015TDJnMlpDODRPRFF4TVRFNU9Ea3hORGcyTG5CdVp3fDQxZjM1YTI4YmIzY2YyZTIyMTczNTZiOThhYzVjYWE4MTY5ZDgzMzAxMTE0NWI3NGQ2Y2I2ZWNkMmFkNWZlMzc",
+      "colors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "apple",
+      "description": "iPhone 13 donosi potpuno novo iskustvo korišćenja sa moćnim A15 Bionic čipom, zapanjujućim Super Retina XDR ekranom od 6.1 inča i unapređenim sistemom kamera. Uživaj u kristalno čistim fotografijama i video zapisima zahvaljujući dvostrukoj kameri od 12 MP, sa noćnim načinom rada i Smart HDR 4. Njegov kompaktan i elegantan dizajn dolazi u prelepim bojama koje će se savršeno uklopiti u tvoj stil.",
+      "category": "mobiteli",
+      "shipping": true,
+      "featured": true,
+      "memory": 128,
+      "ram": 8,
+      "camera": 12,
+      "baterija": 5000,
+      "sistem": "ios"
+
+    },
+    {
+      "id": "recEHmzvupvT8ZONH",
+      "name": "samsung s24+",
+      "price": 109999,
+      "image": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-front.png?context=bWFzdGVyfHJvb3R8NjMyODN8aW1hZ2UvcG5nfGFHRmhMMmhpTXk4NU1ETTROamczTVRReE9URTRMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMW1jbTl1ZEM1d2JtY3wxZjdkMzY4YjlhNmYxMTAxNTBmNTliYzc1ZWM2MGE1NmMwODZiOWM1NDZkYWY4ZWY3NDdlNmJjOWNjMGQ4NGI1",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "samsung",
+      "description": "Samsung Galaxy S24+ donosi moćnu kombinaciju vrhunskog dizajna, performansi i inovacija. Opremljen Dynamic AMOLED 2X ekranom od 6.7 inča sa brzinom osvežavanja od 120Hz, svaki sadržaj izgleda glatko i impresivno, bilo da gledaš video, igraš igre ili pretražuješ internet. Njegov elegantan dizajn i izdržljivo Gorilla Glass Victus 2 staklo pružaju vrhunsku zaštitu i stil.",
+      "category": "mobiteli",
+      "memory": 128,
+      "ram": 6,
+      "camera": 62,
+      "baterija": 5000,
+      "sistem": "android"
+
+    },
+    {
+      "id": "rec5NBwZ5zCD9nfF0",
+      "name": "iphone 11",
+      "price": 34999,
+      "image": "https://mediasb2b.services.mtel.ba/medias/iphone-11-128gb-black-front.png?context=bWFzdGVyfHJvb3R8MTg0NTcwfGltYWdlL3BuZ3xhR015TDJoak1DODRPVFExT1RVNU5qazRORFl5TDJsd2FHOXVaVjh4TVY4eE1qaG5ZbDlpYkdGamExOW1jbTl1ZEM1d2JtY3w4NzUwM2VmMzNkMzk5OTc3NjcxZjVlY2Q5ODg3ZWRkMDUzYjg3YjA0MzhlZGYzZGIwZWIwNmMyMzBkZDBmNDc3",
+      "colors": [
+        "#ffb900",
+        "#0000ff"
+      ],
+      "company": "apple",
+      "description": "iPhone 11 donosi savršenu ravnotežu performansi i cene, sa 6.1-inčnim Liquid Retina HD ekranom i A13 Bionic čipom za brz i efikasan rad. Njegova dvostruka kamera od 12 MP omogućava izvanredne fotografije, čak i pri slabom osvetljenju, dok noćni režim osvetljava svaku scenu.Uz dugotrajnu bateriju i otpornost na vodu i prašinu, iPhone 11 je dizajniran da traje. Uživaj u svim prednostima iOS-a uz uređaj koji kombinuje funkcionalnost i stil.",
+      "category": "mobiteli",
+      "featured": true,
+      "memory": 128,
+      "ram": 6,
+      "camera": 32,
+      "baterija": 5000,
+      "sistem": "ios"
+    },
+    {
+      "id": "recd1jIVIEChmiwhe",
+      "name": "huawei nova 10 se",
+      "price": 45000,
+      "image": "https://mediasb2b.services.mtel.ba/medias/huawei-nova-10-se-6-128gb-starry-black.png?context=bWFzdGVyfHJvb3R8MjYyMjIwfGltYWdlL3BuZ3xhRFpsTDJnNE1pODRPVFl6TVRRd09EYzRNelkyTDJoMVlYZGxhVjl1YjNaaFh6RXdYM05sWHpaZk1USTRaMkpmYzNSaGNuSjVYMkpzWVdOckxuQnVad3w2YzU5ODM4MjhhOTM0ZDQ2MGNhZTc1MGRkMDg0M2VjYTk5ODNiNDdkMTkwMzllMjNmNDc4YjZhYzZmMzUyZDgz",
+      "colors": [
+        "#000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "huawei",
+      "description": "Huawei Nova 10 SE nudi savršen spoj stila i funkcionalnosti, sa 6.67-inčnim OLED ekranom i ultra tankim dizajnom. Pokreće ga Snapdragon 680 čipset, pružajući fluidan rad i energetsku efikasnost.",
+      "category": "mobiteli",
+      "shipping": true,
+      "memory": 128,
+      "ram": 8,
+      "camera": 50,
+      "baterija": 5000,
+      "sistem": "android"
+    },
+    {
+      "id": "recotY5Nh00DQFdkm",
+      "name": "Samsung UE50",
+      "price": 124999,
+      "image": "https://mediasb2b.services.mtel.ba/medias/samsung-ue50AU8o72.png?context=bWFzdGVyfHJvb3R8NzY5OTA4fGltYWdlL3BuZ3xhRFJtTDJnMk5DODRPREl5TURFNU1UWXlNVFF5TG5CdVp3fDc2MDE4YzQ1N2Q4OThkMDE2ZGJiNGFjNGUzM2UwNGM2MWIyNDBkNzFjNmE0N2FlNmM5ZWQ3NWJiMjExOWVmMzc",
+      "colors": [
+        "#00ff00",
+        "#0000ff",
+        "#ff0000"
+      ],
+      "company": "samsung",
+      "description": "Samsung UE50 Smart TV donosi 50-inčni 4K UHD ekran sa živopisnim bojama i oštrim detaljima, zahvaljujući tehnologiji Crystal Display. Uz podršku za HDR, svaki prizor izgleda impresivno, bilo da gledaš filmove, sportske događaje ili igraš igre.",
+      "category": "tv",
+      "shipping": true,
+      "smart": true
+   
+    },
+    {
+      "id": "rec1Ntk7siEEW9ha1",
+      "name": "Tesla 43`",
+      "price": 30000,
+      "image": "https://mediasb2b.services.mtel.ba/medias/43Q300BF-black1.png?context=bWFzdGVyfHJvb3R8MjIyNzE3fGltYWdlL3BuZ3xhRE5sTDJneVppODRPVGN6TXpnME5EVXdNRGM0THpRelVUTXdNRUpHWDJKc1lXTnJNUzV3Ym1jfDVhYTVhMGMxNzAzMjc4NmY5ZDRiNTBmNTdkNDVhNjVjNGNiZTIwZDg5YjlkNTFhZGUzNTBiYmNmMDcxNjBkNjM",
+      "colors": [
+        "#0000ff",
+        "#000"
+      ],
+      "company": "tesla",
+      "description": "Tesla 43` TV pruža odličan kvalitet slike na Full HD ekranu sa živim bojama i jasnim detaljima. Savršen za gledanje omiljenih filmova i TV emisija, ovaj model nudi jednostavno povezivanje sa različitim uređajima putem HDMI i USB priključaka.",
+      "category": "tv",
+      "shipping": true,
+      "smart": true
+     
+    },
+    {
+      "id": "recNZ0koOqEmilmoz",
+      "name": "Samsung Tab a9",
+      "price": 32000,
+      "image": "https://i.imgur.com/luujG0Z.png",
+      "featured": true,
+      "colors": [
+        "#000",
+        "#ff0000"
+      ],
+      "company": "samsung",
+      "description": "Samsung Galaxy Tab A9 donosi 8.7-inčni TFT ekran sa živim bojama i odličnom preglednošću, idealan za gledanje video sadržaja, čitanje ili surfovanje internetom. Pokreće ga snažan procesor koji omogućava glatko obavljanje zadataka, dok je baterija dugotrajna i podržava te tokom celog dana.",
+      "category": "tablet",
+      "shipping": true,
+      "memory": 128,
+      "ram": 4,
+      "camera": 50,
+      "baterija": 5000,
+      "sistem": "android"
+    },
+    {
+      "id": "recrfxv3EwpvJwvjq",
+      "name": "apple ipad",
+      "price": 94000,
+      "image": "https://i.imgur.com/8pp880M.png",
+      "featured": true,
+      "colors": [
+        "#000",
+        "#00ff00"
+      ],
+      "company": "apple",
+      "description": "Apple iPad donosi impresivan 10.2-inčni Retina ekran, idealan za rad, zabavu i kreativnost. Opremljen A13 Bionic čipom, omogućava brzo izvršavanje zadataka, od igranja igara do uređivanja dokumenata i fotografija.",
+      "category": "tablet",
+      "shipping": true,
+      "memory": 128,
+      "ram": 12,
+      "camera": 48,
+      "baterija": 7000,
+      "sistem": "ios"
+    },
+    {
+      "id": "recoW8ecgjtKx2Sj2",
+      "name": "Tesla 32`",
+      "price": 21000,
+      "image": "https://mediasb2b.services.mtel.ba/medias/televizor-tesla-32e325bh-front.png?context=bWFzdGVyfHJvb3R8MjY5MTkxfGltYWdlL3BuZ3xhR1UzTDJnMU15ODRPRFl3TURNNE9UZzNPREEyTG5CdVp3fDZmM2I4NTc0NGUxZDRiYjk5YjViMDcyNTU3MzYzMGJkZGVjZjQ3NTNmNWI0NDcyZDI5NzNlNDU1NzEzY2YyNjg",
+      "colors": [
+        "#ff0000",
+        "#ffb900",
+        "#00ff00"
+      ],
+      "company": "tesla",
+      "description": "Tesla 32` TV nudi odličan kvalitet slike na HD ekranu, idealan za svakodnevno gledanje omiljenih emisija i filmova. Ovaj model dolazi sa osnovnim funkcijama i jednostavnim povezivanjem putem HDMI i USB priključaka, omogućavajući lako priključivanje dodatnih uređaja.",
+      "category": "tv",
+      "smart": false
+    },
+    {
+      "id": "recEOA6qtDag1hRbU",
+      "name": "Lenovo idepad",
+      "price": 189000,
+      "image": "https://i.imgur.com/NW3WTFZ.png",
+      "colors": [
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "lenovo",
+      "description": "Lenovo IdeaPad kombinuje moderan dizajn i snažne performanse, idealne za rad, učenje ili zabavu. Opremljen procesorima najnovije generacije, pruža brzinu i efikasnost u svim zadacima. Sa HD ili Full HD ekranom, uživaćeš u jasnoj slici i živopisnim bojama.",
+      "category": "laptop",
+      "memory": 512,
+      "ram": 8,
+      "camera": 12,
+      "baterija": 10000,
+      "sistem": "windows"
+    },
+    {
+      "id": "recoAJYUCuEKxcPSr",
+      "name": "Canon EOS4000D",
+      "price": 77500,
+      "image": "https://i.imgur.com/6hGu4Gh.png",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000",
+        "#00ff00"
+      ],
+      "company": "canon",
+      "description": "Canon EOS 4000D je idealan izbor za one koji započinju svoju fotografsku avanturu. Opremljen sa 18 MP APS-C senzorom, pruža odličnu kvalitetu slike sa bogatim detaljima i živopisnim bojama. Njegov DIGIC 4+ procesor omogućava brzo snimanje i poboljšanu obrada slike.",
+      "category": "camera"
+    },
+    {
+      "id": "recQ0fMd8T0Vk211E",
+      "name": "GoPro Hero 9",
+      "price": 93000,
+      "image": "https://i.imgur.com/hlDSLoZ.png",
+      "colors": [
+        "#000"
+      ],
+      "company": "go pro",
+      "description": "GoPro HERO 9 Black donosi vrhunski kvalitet snimanja sa 20 MP senzorom i 5K video rezolucijom. Ovaj akciona kamera omogućava izvanredne detalje i jasnoću, bilo da se nalaziš u akciji ili snimaš avanture u prirodi.",
+      "category": "camera",
+      "shipping": true,
+      "featured": true
+    }
+    
+  ]

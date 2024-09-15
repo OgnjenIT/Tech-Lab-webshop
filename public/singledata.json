@@ -1,0 +1,635 @@
+[
+    {
+    "id": "recZkNf2kwmdBcqd0",
+    "stock": 3,
+    "price": 59999,
+    "shipping": true,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "mobile",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/iphone-13-128gb-midnight.png?context=bWFzdGVyfHJvb3R8MTI1NTE0fGltYWdlL3BuZ3xhR015TDJnMlpDODRPRFF4TVRFNU9Ea3hORGcyTG5CdVp3fDQxZjM1YTI4YmIzY2YyZTIyMTczNTZiOThhYzVjYWE4MTY5ZDgzMzAxMTE0NWI3NGQ2Y2I2ZWNkMmFkNWZlMzc",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-13-128gb-midnight.png?context=bWFzdGVyfHJvb3R8MTI1NTE0fGltYWdlL3BuZ3xhR015TDJnMlpDODRPRFF4TVRFNU9Ea3hORGcyTG5CdVp3fDQxZjM1YTI4YmIzY2YyZTIyMTczNTZiOThhYzVjYWE4MTY5ZDgzMzAxMTE0NWI3NGQ2Y2I2ZWNkMmFkNWZlMzc",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-13-128gb-midnight.png?context=bWFzdGVyfHJvb3R8MTI1NTE0fGltYWdlL3BuZ3xhR015TDJnMlpDODRPRFF4TVRFNU9Ea3hORGcyTG5CdVp3fDQxZjM1YTI4YmIzY2YyZTIyMTczNTZiOThhYzVjYWE4MTY5ZDgzMzAxMTE0NWI3NGQ2Y2I2ZWNkMmFkNWZlMzc",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-13-128gb-midnight.png?context=bWFzdGVyfHJvb3R8MTI1NTE0fGltYWdlL3BuZ3xhR015TDJnMlpDODRPRFF4TVRFNU9Ea3hORGcyTG5CdVp3fDQxZjM1YTI4YmIzY2YyZTIyMTczNTZiOThhYzVjYWE4MTY5ZDgzMzAxMTE0NWI3NGQ2Y2I2ZWNkMmFkNWZlMzc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 23,
+    "stars": 4.7,
+    "name": "Iphone 13",
+    "description": "iPhone 13 donosi potpuno novo iskustvo korišćenja sa moćnim A15 Bionic čipom, zapanjujućim Super Retina XDR ekranom od 6.1 inča i unapređenim sistemom kamera. Uživaj u kristalno čistim fotografijama i video zapisima zahvaljujući dvostrukoj kameri od 12 MP, sa noćnim načinom rada i Smart HDR 4. Njegov kompaktan i elegantan dizajn dolazi u prelepim bojama koje će se savršeno uklopiti u tvoj stil.",
+    "company": "Apple",
+    "memory": 128,
+    "ram": 8,
+    "camera": 12,
+    "baterija": 5000,
+    "sistem": "ios"
+  }
+,
+{
+    "id": "recEHmzvupvT8ZONH",
+    "stock": 5,
+    "price": 109999,
+    "colors": [
+      "#000",
+      "#ffb900"
+    ],
+    "category": "mobile",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-front.png?context=bWFzdGVyfHJvb3R8NjMyODN8aW1hZ2UvcG5nfGFHRmhMMmhpTXk4NU1ETTROamczTVRReE9URTRMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMW1jbTl1ZEM1d2JtY3wxZjdkMzY4YjlhNmYxMTAxNTBmNTliYzc1ZWM2MGE1NmMwODZiOWM1NDZkYWY4ZWY3NDdlNmJjOWNjMGQ4NGI1",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-front.png?context=bWFzdGVyfHJvb3R8NjMyODN8aW1hZ2UvcG5nfGFHRmhMMmhpTXk4NU1ETTROamczTVRReE9URTRMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMW1jbTl1ZEM1d2JtY3wxZjdkMzY4YjlhNmYxMTAxNTBmNTliYzc1ZWM2MGE1NmMwODZiOWM1NDZkYWY4ZWY3NDdlNmJjOWNjMGQ4NGI1",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-front.png?context=bWFzdGVyfHJvb3R8NjMyODN8aW1hZ2UvcG5nfGFHRmhMMmhpTXk4NU1ETTROamczTVRReE9URTRMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMW1jbTl1ZEM1d2JtY3wxZjdkMzY4YjlhNmYxMTAxNTBmNTliYzc1ZWM2MGE1NmMwODZiOWM1NDZkYWY4ZWY3NDdlNmJjOWNjMGQ4NGI1",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-front.png?context=bWFzdGVyfHJvb3R8NjMyODN8aW1hZ2UvcG5nfGFHRmhMMmhpTXk4NU1ETTROamczTVRReE9URTRMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMW1jbTl1ZEM1d2JtY3wxZjdkMzY4YjlhNmYxMTAxNTBmNTliYzc1ZWM2MGE1NmMwODZiOWM1NDZkYWY4ZWY3NDdlNmJjOWNjMGQ4NGI1",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWsZasaaRD1P7mm",
+        "width": 1000,
+        "height": 714,
+        "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-side.png?context=bWFzdGVyfHJvb3R8MTAzNTl8aW1hZ2UvcG5nfGFEWTVMMmhpTnk4NU1ETTROamczTWpjeU9Ua3dMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMXphV1JsTG5CdVp3fDI2MjkwYTk0MDA2ZTRhNjUwODdjNTVkMGNkZTJjOGNkYjZiNTFhMGMwYmVjNjU2ZTFjY2U3NDM1YzFkOWRiNzE",
+        "filename": "extra-2.jpeg",
+        "size": 84418,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-side.png?context=bWFzdGVyfHJvb3R8MTAzNTl8aW1hZ2UvcG5nfGFEWTVMMmhpTnk4NU1ETTROamczTWpjeU9Ua3dMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMXphV1JsTG5CdVp3fDI2MjkwYTk0MDA2ZTRhNjUwODdjNTVkMGNkZTJjOGNkYjZiNTFhMGMwYmVjNjU2ZTFjY2U3NDM1YzFkOWRiNzE",
+            "width": 50,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-side.png?context=bWFzdGVyfHJvb3R8MTAzNTl8aW1hZ2UvcG5nfGFEWTVMMmhpTnk4NU1ETTROamczTWpjeU9Ua3dMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMXphV1JsTG5CdVp3fDI2MjkwYTk0MDA2ZTRhNjUwODdjNTVkMGNkZTJjOGNkYjZiNTFhMGMwYmVjNjU2ZTFjY2U3NDM1YzFkOWRiNzE",
+            "width": 717,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-side.png?context=bWFzdGVyfHJvb3R8MTAzNTl8aW1hZ2UvcG5nfGFEWTVMMmhpTnk4NU1ETTROamczTWpjeU9Ua3dMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMXphV1JsTG5CdVp3fDI2MjkwYTk0MDA2ZTRhNjUwODdjNTVkMGNkZTJjOGNkYjZiNTFhMGMwYmVjNjU2ZTFjY2U3NDM1YzFkOWRiNzE",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attTvaiDcADaAItLw",
+        "width": 1000,
+        "height": 650,
+        "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-back.png?context=bWFzdGVyfHJvb3R8NTQ1NDh8aW1hZ2UvcG5nfGFEWTNMMmhpWVM4NU1ETTROamczTXpNNE5USTJMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMWlZV05yTG5CdVp3fDUzN2VlY2MwNDRlZTFiMzYxNmViNDIzZGRjNWYwMDY3ZTAyYTQyMTJhZDkwMTUxMGJlYTI3NjU4ODE5YzM1ODE",
+        "filename": "extra-3.jpeg",
+        "size": 107838,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-back.png?context=bWFzdGVyfHJvb3R8NTQ1NDh8aW1hZ2UvcG5nfGFEWTNMMmhpWVM4NU1ETTROamczTXpNNE5USTJMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMWlZV05yTG5CdVp3fDUzN2VlY2MwNDRlZTFiMzYxNmViNDIzZGRjNWYwMDY3ZTAyYTQyMTJhZDkwMTUxMGJlYTI3NjU4ODE5YzM1ODE",
+            "width": 55,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-back.png?context=bWFzdGVyfHJvb3R8NTQ1NDh8aW1hZ2UvcG5nfGFEWTNMMmhpWVM4NU1ETTROamczTXpNNE5USTJMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMWlZV05yTG5CdVp3fDUzN2VlY2MwNDRlZTFiMzYxNmViNDIzZGRjNWYwMDY3ZTAyYTQyMTJhZDkwMTUxMGJlYTI3NjU4ODE5YzM1ODE",
+            "width": 788,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-galaxy-s24-plus-5g-12-512gb-violet-back.png?context=bWFzdGVyfHJvb3R8NTQ1NDh8aW1hZ2UvcG5nfGFEWTNMMmhpWVM4NU1ETTROamczTXpNNE5USTJMM05oYlhOMWJtY3RaMkZzWVhoNUxYTXlOQzF3YkhWekxUVm5MVEV5TFRVeE1tZGlMWFpwYjJ4bGRDMWlZV05yTG5CdVp3fDUzN2VlY2MwNDRlZTFiMzYxNmViNDIzZGRjNWYwMDY3ZTAyYTQyMTJhZDkwMTUxMGJlYTI3NjU4ODE5YzM1ODE",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    
+    ],
+    "reviews": 56,
+    "stars": 4.9,
+    "name": "Samsung Galaxy S24+",
+    "description": "Samsung Galaxy S24+ donosi moćnu kombinaciju vrhunskog dizajna, performansi i inovacija. Opremljen Dynamic AMOLED 2X ekranom od 6.7 inča sa brzinom osvežavanja od 120Hz, svaki sadržaj izgleda glatko i impresivno, bilo da gledaš video, igraš igre ili pretražuješ internet. Njegov elegantan dizajn i izdržljivo Gorilla Glass Victus 2 staklo pružaju vrhunsku zaštitu i stil.",
+    "company": "samsung",
+    "memory": 128,
+    "ram": 6,
+    "camera": 62,
+    "baterija": 5000,
+    "sistem": "android"
+  },
+{
+    "id": "rec5NBwZ5zCD9nfF0",
+    "stock": 3,
+    "price": 34999,
+    "colors": [
+      "#ffb900",
+      "#0000ff"
+    ],
+    "category": "mobile",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/iphone-11-128gb-black-front.png?context=bWFzdGVyfHJvb3R8MTg0NTcwfGltYWdlL3BuZ3xhR015TDJoak1DODRPVFExT1RVNU5qazRORFl5TDJsd2FHOXVaVjh4TVY4eE1qaG5ZbDlpYkdGamExOW1jbTl1ZEM1d2JtY3w4NzUwM2VmMzNkMzk5OTc3NjcxZjVlY2Q5ODg3ZWRkMDUzYjg3YjA0MzhlZGYzZGIwZWIwNmMyMzBkZDBmNDc3",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-11-128gb-black-front.png?context=bWFzdGVyfHJvb3R8MTg0NTcwfGltYWdlL3BuZ3xhR015TDJoak1DODRPVFExT1RVNU5qazRORFl5TDJsd2FHOXVaVjh4TVY4eE1qaG5ZbDlpYkdGamExOW1jbTl1ZEM1d2JtY3w4NzUwM2VmMzNkMzk5OTc3NjcxZjVlY2Q5ODg3ZWRkMDUzYjg3YjA0MzhlZGYzZGIwZWIwNmMyMzBkZDBmNDc3",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-11-128gb-black-front.png?context=bWFzdGVyfHJvb3R8MTg0NTcwfGltYWdlL3BuZ3xhR015TDJoak1DODRPVFExT1RVNU5qazRORFl5TDJsd2FHOXVaVjh4TVY4eE1qaG5ZbDlpYkdGamExOW1jbTl1ZEM1d2JtY3w4NzUwM2VmMzNkMzk5OTc3NjcxZjVlY2Q5ODg3ZWRkMDUzYjg3YjA0MzhlZGYzZGIwZWIwNmMyMzBkZDBmNDc3",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/iphone-11-128gb-black-front.png?context=bWFzdGVyfHJvb3R8MTg0NTcwfGltYWdlL3BuZ3xhR015TDJoak1DODRPVFExT1RVNU5qazRORFl5TDJsd2FHOXVaVjh4TVY4eE1qaG5ZbDlpYkdGamExOW1jbTl1ZEM1d2JtY3w4NzUwM2VmMzNkMzk5OTc3NjcxZjVlY2Q5ODg3ZWRkMDUzYjg3YjA0MzhlZGYzZGIwZWIwNmMyMzBkZDBmNDc3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 32,
+    "stars": 4.3,
+    "name": "iphone 11",
+    "description": "iPhone 11 donosi savršenu ravnotežu performansi i cene, sa 6.1-inčnim Liquid Retina HD ekranom i A13 Bionic čipom za brz i efikasan rad. Njegova dvostruka kamera od 12 MP omogućava izvanredne fotografije, čak i pri slabom osvetljenju, dok noćni režim osvetljava svaku scenu.Uz dugotrajnu bateriju i otpornost na vodu i prašinu, iPhone 11 je dizajniran da traje. Uživaj u svim prednostima iOS-a uz uređaj koji kombinuje funkcionalnost i stil.",
+    "company": "apple",
+    "memory": 128,
+    "ram": 6,
+    "camera": 32,
+    "baterija": 5000,
+    "sistem": "ios"
+  },
+{
+    "id": "recd1jIVIEChmiwhe",
+    "stock": 3,
+    "price": 45000,
+    "shipping": true,
+    "colors": [
+      "#000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "mobile",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/huawei-nova-10-se-6-128gb-starry-black.png?context=bWFzdGVyfHJvb3R8MjYyMjIwfGltYWdlL3BuZ3xhRFpsTDJnNE1pODRPVFl6TVRRd09EYzRNelkyTDJoMVlYZGxhVjl1YjNaaFh6RXdYM05sWHpaZk1USTRaMkpmYzNSaGNuSjVYMkpzWVdOckxuQnVad3w2YzU5ODM4MjhhOTM0ZDQ2MGNhZTc1MGRkMDg0M2VjYTk5ODNiNDdkMTkwMzllMjNmNDc4YjZhYzZmMzUyZDgz",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/huawei-nova-10-se-6-128gb-starry-black.png?context=bWFzdGVyfHJvb3R8MjYyMjIwfGltYWdlL3BuZ3xhRFpsTDJnNE1pODRPVFl6TVRRd09EYzRNelkyTDJoMVlYZGxhVjl1YjNaaFh6RXdYM05sWHpaZk1USTRaMkpmYzNSaGNuSjVYMkpzWVdOckxuQnVad3w2YzU5ODM4MjhhOTM0ZDQ2MGNhZTc1MGRkMDg0M2VjYTk5ODNiNDdkMTkwMzllMjNmNDc4YjZhYzZmMzUyZDgz",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/huawei-nova-10-se-6-128gb-starry-black.png?context=bWFzdGVyfHJvb3R8MjYyMjIwfGltYWdlL3BuZ3xhRFpsTDJnNE1pODRPVFl6TVRRd09EYzRNelkyTDJoMVlYZGxhVjl1YjNaaFh6RXdYM05sWHpaZk1USTRaMkpmYzNSaGNuSjVYMkpzWVdOckxuQnVad3w2YzU5ODM4MjhhOTM0ZDQ2MGNhZTc1MGRkMDg0M2VjYTk5ODNiNDdkMTkwMzllMjNmNDc4YjZhYzZmMzUyZDgz",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/huawei-nova-10-se-6-128gb-starry-black.png?context=bWFzdGVyfHJvb3R8MjYyMjIwfGltYWdlL3BuZ3xhRFpsTDJnNE1pODRPVFl6TVRRd09EYzRNelkyTDJoMVlYZGxhVjl1YjNaaFh6RXdYM05sWHpaZk1USTRaMkpmYzNSaGNuSjVYMkpzWVdOckxuQnVad3w2YzU5ODM4MjhhOTM0ZDQ2MGNhZTc1MGRkMDg0M2VjYTk5ODNiNDdkMTkwMzllMjNmNDc4YjZhYzZmMzUyZDgz",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 33,
+    "stars": 4.2,
+    "name": "huawei nova 10 se",
+    "description": "Huawei Nova 10 SE nudi savršen spoj stila i funkcionalnosti, sa 6.67-inčnim OLED ekranom i ultra tankim dizajnom. Pokreće ga Snapdragon 680 čipset, pružajući fluidan rad i energetsku efikasnost.",
+    "company": "huawei",
+    "memory": 128,
+    "ram": 8,
+    "camera": 50,
+    "baterija": 5000,
+    "sistem": "android"
+  },
+{
+    "id": "recotY5Nh00DQFdkm",
+    "stock": 5,
+    "price": 124999,
+    "shipping": true,
+    "colors": [
+      "#00ff00",
+      "#0000ff",
+      "#ff0000"
+    ],
+    "category": "tv",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/samsung-ue50AU8o72.png?context=bWFzdGVyfHJvb3R8NzY5OTA4fGltYWdlL3BuZ3xhRFJtTDJnMk5DODRPREl5TURFNU1UWXlNVFF5TG5CdVp3fDc2MDE4YzQ1N2Q4OThkMDE2ZGJiNGFjNGUzM2UwNGM2MWIyNDBkNzFjNmE0N2FlNmM5ZWQ3NWJiMjExOWVmMzc",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-ue50AU8o72.png?context=bWFzdGVyfHJvb3R8NzY5OTA4fGltYWdlL3BuZ3xhRFJtTDJnMk5DODRPREl5TURFNU1UWXlNVFF5TG5CdVp3fDc2MDE4YzQ1N2Q4OThkMDE2ZGJiNGFjNGUzM2UwNGM2MWIyNDBkNzFjNmE0N2FlNmM5ZWQ3NWJiMjExOWVmMzc",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-ue50AU8o72.png?context=bWFzdGVyfHJvb3R8NzY5OTA4fGltYWdlL3BuZ3xhRFJtTDJnMk5DODRPREl5TURFNU1UWXlNVFF5TG5CdVp3fDc2MDE4YzQ1N2Q4OThkMDE2ZGJiNGFjNGUzM2UwNGM2MWIyNDBkNzFjNmE0N2FlNmM5ZWQ3NWJiMjExOWVmMzc",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/samsung-ue50AU8o72.png?context=bWFzdGVyfHJvb3R8NzY5OTA4fGltYWdlL3BuZ3xhRFJtTDJnMk5DODRPREl5TURFNU1UWXlNVFF5TG5CdVp3fDc2MDE4YzQ1N2Q4OThkMDE2ZGJiNGFjNGUzM2UwNGM2MWIyNDBkNzFjNmE0N2FlNmM5ZWQ3NWJiMjExOWVmMzc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }    
+    ],
+    "reviews": 200,
+    "stars": 5.0,
+    "name": "Samsung UE50 Smart",
+    "description": "Samsung UE50 Smart TV donosi 50-inčni 4K UHD ekran sa živopisnim bojama i oštrim detaljima, zahvaljujući tehnologiji Crystal Display. Uz podršku za HDR, svaki prizor izgleda impresivno, bilo da gledaš filmove, sportske događaje ili igraš igre.",
+    "company": "samsung",
+    "smart": true,
+    "inca": 50
+  },
+
+{
+    "id": "rec1Ntk7siEEW9ha1",
+    "stock": 1,
+    "price": 30000,
+    "shipping": true,
+    "colors": [
+      "#0000ff",
+      "#000"
+    ],
+    "category": "tv",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/43Q300BF-black1.png?context=bWFzdGVyfHJvb3R8MjIyNzE3fGltYWdlL3BuZ3xhRE5sTDJneVppODRPVGN6TXpnME5EVXdNRGM0THpRelVUTXdNRUpHWDJKc1lXTnJNUzV3Ym1jfDVhYTVhMGMxNzAzMjc4NmY5ZDRiNTBmNTdkNDVhNjVjNGNiZTIwZDg5YjlkNTFhZGUzNTBiYmNmMDcxNjBkNjM",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/43Q300BF-black1.png?context=bWFzdGVyfHJvb3R8MjIyNzE3fGltYWdlL3BuZ3xhRE5sTDJneVppODRPVGN6TXpnME5EVXdNRGM0THpRelVUTXdNRUpHWDJKc1lXTnJNUzV3Ym1jfDVhYTVhMGMxNzAzMjc4NmY5ZDRiNTBmNTdkNDVhNjVjNGNiZTIwZDg5YjlkNTFhZGUzNTBiYmNmMDcxNjBkNjM",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/43Q300BF-black1.png?context=bWFzdGVyfHJvb3R8MjIyNzE3fGltYWdlL3BuZ3xhRE5sTDJneVppODRPVGN6TXpnME5EVXdNRGM0THpRelVUTXdNRUpHWDJKc1lXTnJNUzV3Ym1jfDVhYTVhMGMxNzAzMjc4NmY5ZDRiNTBmNTdkNDVhNjVjNGNiZTIwZDg5YjlkNTFhZGUzNTBiYmNmMDcxNjBkNjM",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/43Q300BF-black1.png?context=bWFzdGVyfHJvb3R8MjIyNzE3fGltYWdlL3BuZ3xhRE5sTDJneVppODRPVGN6TXpnME5EVXdNRGM0THpRelVUTXdNRUpHWDJKc1lXTnJNUzV3Ym1jfDVhYTVhMGMxNzAzMjc4NmY5ZDRiNTBmNTdkNDVhNjVjNGNiZTIwZDg5YjlkNTFhZGUzNTBiYmNmMDcxNjBkNjM",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 60,
+    "stars": 5,
+    "name": "tesla 43`",
+    "description": "Tesla 43` TV pruža odličan kvalitet slike na Full HD ekranu sa živim bojama i jasnim detaljima. Savršen za gledanje omiljenih filmova i TV emisija, ovaj model nudi jednostavno povezivanje sa različitim uređajima putem HDMI i USB priključaka.",
+    "company": "tesla",
+    "smart": true,
+    "inca": 43
+  },
+{
+    "id": "recNZ0koOqEmilmoz",
+    "stock": 10,
+    "price": 32000,
+    "shipping": true,
+    "featured": true,
+    "colors": [
+      "#000",
+      "#ff0000"
+    ],
+    "category": "tablet",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://i.imgur.com/luujG0Z.png",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://i.imgur.com/luujG0Z.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://i.imgur.com/luujG0Z.png",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://i.imgur.com/luujG0Z.png",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 100,
+    "stars": 3.9,
+    "name": "Samsung tab a9",
+    "description": "Samsung Galaxy Tab A9 donosi 8.7-inčni TFT ekran sa živim bojama i odličnom preglednošću, idealan za gledanje video sadržaja, čitanje ili surfovanje internetom. Pokreće ga snažan procesor koji omogućava glatko obavljanje zadataka, dok je baterija dugotrajna i podržava te tokom celog dana.",
+    "company": "samsung",
+    "memory": 128,
+      "ram": 4,
+      "camera": 50,
+      "baterija": 5000,
+      "sistem": "android"
+  },
+
+{
+    "id": "recrfxv3EwpvJwvjq",
+    "stock": 8,
+    "price": 94000,
+    "shipping": true,
+    "featured": true,
+    "colors": [
+      "#000",
+      "#00ff00"
+    ],
+    "category": "tablet",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://i.imgur.com/8pp880M.png",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://i.imgur.com/8pp880M.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://i.imgur.com/8pp880M.png",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://i.imgur.com/8pp880M.png",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 19,
+    "stars": 4.4,
+    "name": "Apple iPAD",
+    "description": "Apple iPad donosi impresivan 10.2-inčni Retina ekran, idealan za rad, zabavu i kreativnost. Opremljen A13 Bionic čipom, omogućava brzo izvršavanje zadataka, od igranja igara do uređivanja dokumenata i fotografija.",
+    "company": "apple",
+    "memory": 128,
+      "ram": 12,
+      "camera": 48,
+      "baterija": 7000,
+      "sistem": "ios"
+  },
+{
+    "id": "recoW8ecgjtKx2Sj2",
+    "stock": 8,
+    "price": 21000,
+    "colors": [
+      "#ff0000",
+      "#ffb900",
+      "#00ff00"
+    ],
+    "category": "tv",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://mediasb2b.services.mtel.ba/medias/televizor-tesla-32e325bh-front.png?context=bWFzdGVyfHJvb3R8MjY5MTkxfGltYWdlL3BuZ3xhR1UzTDJnMU15ODRPRFl3TURNNE9UZzNPREEyTG5CdVp3fDZmM2I4NTc0NGUxZDRiYjk5YjViMDcyNTU3MzYzMGJkZGVjZjQ3NTNmNWI0NDcyZDI5NzNlNDU1NzEzY2YyNjg",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/televizor-tesla-32e325bh-front.png?context=bWFzdGVyfHJvb3R8MjY5MTkxfGltYWdlL3BuZ3xhR1UzTDJnMU15ODRPRFl3TURNNE9UZzNPREEyTG5CdVp3fDZmM2I4NTc0NGUxZDRiYjk5YjViMDcyNTU3MzYzMGJkZGVjZjQ3NTNmNWI0NDcyZDI5NzNlNDU1NzEzY2YyNjg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/televizor-tesla-32e325bh-front.png?context=bWFzdGVyfHJvb3R8MjY5MTkxfGltYWdlL3BuZ3xhR1UzTDJnMU15ODRPRFl3TURNNE9UZzNPREEyTG5CdVp3fDZmM2I4NTc0NGUxZDRiYjk5YjViMDcyNTU3MzYzMGJkZGVjZjQ3NTNmNWI0NDcyZDI5NzNlNDU1NzEzY2YyNjg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://mediasb2b.services.mtel.ba/medias/televizor-tesla-32e325bh-front.png?context=bWFzdGVyfHJvb3R8MjY5MTkxfGltYWdlL3BuZ3xhR1UzTDJnMU15ODRPRFl3TURNNE9UZzNPREEyTG5CdVp3fDZmM2I4NTc0NGUxZDRiYjk5YjViMDcyNTU3MzYzMGJkZGVjZjQ3NTNmNWI0NDcyZDI5NzNlNDU1NzEzY2YyNjg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 17,
+    "stars": 4.8,
+    "name": "Tesla 32`",
+    "description": "Tesla 32` TV nudi odličan kvalitet slike na HD ekranu, idealan za svakodnevno gledanje omiljenih emisija i filmova. Ovaj model dolazi sa osnovnim funkcijama i jednostavnim povezivanjem putem HDMI i USB priključaka, omogućavajući lako priključivanje dodatnih uređaja.",
+    "company": "tesla",
+    "smart": false,
+    "inca": 32
+  },
+
+{
+    "id": "recEOA6qtDag1hRbU",
+    "stock": 4,
+    "price": 189000,
+    "colors": [
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "laptop",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://i.imgur.com/NW3WTFZ.png",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://i.imgur.com/NW3WTFZ.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://i.imgur.com/NW3WTFZ.png",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://i.imgur.com/NW3WTFZ.png",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 44,
+    "stars": 4.8,
+    "name": "Lenovo idepad gaming",
+    "description": "Lenovo IdeaPad kombinuje moderan dizajn i snažne performanse, idealne za rad, učenje ili zabavu. Opremljen procesorima najnovije generacije, pruža brzinu i efikasnost u svim zadacima. Sa HD ili Full HD ekranom, uživaćeš u jasnoj slici i živopisnim bojama.",
+    "company": "lenovo",
+    "memory": 512,
+      "ram": 8,
+      "camera": 12,
+      "baterija": 10000,
+      "sistem": "windows"
+  },
+
+{
+    "id": "recoAJYUCuEKxcPSr",
+    "stock": 9,
+    "price": 77500,
+    "featured": true,
+    "colors": [
+      "#ffb900",
+      "#ff0000",
+      "#00ff00"
+    ],
+    "category": "camera",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://i.imgur.com/6hGu4Gh.png",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://i.imgur.com/6hGu4Gh.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://i.imgur.com/6hGu4Gh.png",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://i.imgur.com/6hGu4Gh.png",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 27,
+    "stars": 4.2,
+    "name": "Canon EOS4500D",
+    "description": "Canon EOS 4000D je idealan izbor za one koji započinju svoju fotografsku avanturu. Opremljen sa 18 MP APS-C senzorom, pruža odličnu kvalitetu slike sa bogatim detaljima i živopisnim bojama. Njegov DIGIC 4+ procesor omogućava brzo snimanje i poboljšanu obrada slike.",
+    "company": "canon",
+    "voda": false
+    
+  },
+
+{
+    "id": "recQ0fMd8T0Vk211E",
+    "stock": 10,
+    "price": 93000,
+    "shipping": true,
+    "colors": [
+      "#000"
+    ],
+    "category": "camera",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "https://i.imgur.com/hlDSLoZ.png",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://i.imgur.com/hlDSLoZ.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://i.imgur.com/hlDSLoZ.png",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://i.imgur.com/hlDSLoZ.png",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 100,
+    "stars": 2.2,
+    "name": "GoPro hero 9",
+    "description": "GoPro HERO 9 Black donosi vrhunski kvalitet snimanja sa 20 MP senzorom i 5K video rezolucijom. Ovaj akciona kamera omogućava izvanredne detalje i jasnoću, bilo da se nalaziš u akciji ili snimaš avanture u prirodi.",
+    "company": "GoPro",
+    "voda": true
+  }
+]
